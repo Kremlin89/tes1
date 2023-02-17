@@ -2,4 +2,3 @@ streamlit
 face-recognition
 opencv-python-headless
 numpy
-os
